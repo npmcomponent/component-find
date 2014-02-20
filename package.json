@@ -1,5 +1,5 @@
 {
-  "name": "find",
+  "name": "component-find",
   "description": "Array find first value utility",
   "version": "0.0.1",
   "keywords": [
@@ -8,16 +8,6 @@
     "utility"
   ],
   "dependencies": {
-    "to-function": "https://github.com/component/to-function/tarball/master"
-  },
-  "development": {},
-  "component": {
-    "scripts": {
-      "find/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/find.git"
+    "component-to-function": "git://github.com/npmcomponent/component-to-function.git"
   }
 }

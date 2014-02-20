@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-var toFunction = require('to-function');
+var toFunction = require('component-to-function');
 
 /**
  * Find the first value in `arr` with when `fn(val, i)` is truthy.
